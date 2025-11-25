@@ -7,14 +7,15 @@ Windows Defender management tool with GUI and update system.
 ![Logo](https://raw.githubusercontent.com/r3ndycom/defendertool/main/screenshot.png)
 
 ## 🚀 Overview
-**DefenderTool** adalah aplikasi Windows ringan untuk mengontrol **Windows Defender**, **Windows Update**, dan **Safe Mode** melalui antarmuka yang sederhana dan cepat. Dengan fitur auto-update, pengguna selalu mendapatkan versi terbaru tanpa perlu memperbarui secara manual.
+**DefenderTool** adalah aplikasi Windows ringan untuk mengontrol **Windows Defender**, **Windows Update**, **Clear All Cache Windows** dan **Safe Mode** melalui antarmuka yang sederhana dan cepat. Dengan fitur auto-update, pengguna selalu mendapatkan versi terbaru tanpa perlu memperbarui secara manual.
 
 ## ✨ Fitur Utama
 - Enable / Disable Windows Defender (Permanen) 
 - Disable / Enable Real-Time Protection & IOAV (Permanen)  
 - Safe Mode Utility (masuk & keluar Safe Mode dengan aman)  
 - Windows Update Lock / Unlock  (Major updates are locked)
-- Mirror Update Aman (khusus Non LTSC)  
+- Mirror Update Aman (khusus Non LTSC)
+- Clear All Cache Windows 
 - Automatic Update Checker  
 - GUI modern, ringan, dan responsif  
 - Portable (EXE tunggal), tidak perlu instalasi
@@ -54,4 +55,4 @@ Tidak perlu instalasi — cukup jalankan.
 Pull Request dan Issue sangat diterima.  
 Silakan laporkan bug atau fitur yang diinginkan.
 ## 📄 Lisensi
-MIT License — bebas dipakai, dimodifikasi, dan dikembangkan.
+MIT License — bebas dipakai.

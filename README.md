@@ -4,7 +4,7 @@ Windows Defender management tool with GUI and update system.
 # 🛡️ DefenderTool – Permanently disable Microsoft Defender on Windows 10/11.
 *Lightweight, fast, and reliable Windows Defender management tool.*
 
-![Logo](https://raw.githubusercontent.com/r3ndycom/defendertool/main/icon.png)
+![Logo](https://raw.githubusercontent.com/r3ndycom/defendertool/main/screenshot.png)
 
 ## 🚀 Overview
 **DefenderTool** adalah aplikasi Windows ringan untuk mengontrol **Windows Defender**, **Windows Update**, dan **Safe Mode** melalui antarmuka yang sederhana dan cepat. Dengan fitur auto-update, pengguna selalu mendapatkan versi terbaru tanpa perlu memperbarui secara manual.

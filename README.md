@@ -19,6 +19,8 @@ Windows Defender management tool with GUI and update system.
 - Automatic Update Checker  
 - GUI modern, ringan, dan responsif  
 - Portable (EXE tunggal), tidak perlu instalasi
+- Manage Exclusions (Folder, File, Process, File Type)
+- Penambahan Manage Ransomware Protection (Protected Folders, Status Controlled Folder Access ON/OFF)
 
 ## 🔧 Auto-Update System
 DefenderTool secara otomatis:
